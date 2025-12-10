@@ -1,0 +1,4 @@
+List of files in the root directory
+/c/Users/user/Documents/ecosystem/assessment_a/project
+total 1
+-rw-r--r-- 1 user 197121 91 Dec 10 17:24 task1.txt
