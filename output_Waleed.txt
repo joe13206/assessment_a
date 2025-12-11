@@ -1,0 +1,13 @@
+mkdir webpage
+cd webpage
+touch index.html
+nano index.html
+git add .
+git commit -m "adding the webpage folder containing only the HTML file"
+git push
+touch style.css
+nano style.css
+nano index.html
+git add .
+git commit -m "addition of css file with update to index.html"
+git push
