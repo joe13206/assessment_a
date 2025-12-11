@@ -1,0 +1,10 @@
+touch alphabet_script
+chmod u+x alphabet_script.sh
+nano alphabet_script.sh
+bash alphabet_script.sh
+git add .
+git commit -m "addition of the bash alphabet script alongside the screenshot of it working"
+git push
+touch alphabet_output.txt
+nano alphabet_script.sh
+bash alphabet_script
