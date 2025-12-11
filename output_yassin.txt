@@ -1,0 +1,6 @@
+mkdir project
+cd project
+touch task1.txt
+nano touch1.txt
+pwd >> text1.txt
+ls -l >> task1.txt
