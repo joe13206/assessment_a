@@ -1,0 +1,13 @@
+b28797a Merge remote-tracking branch 'origin/master'
+7bc5bc4 removing unnecessary files
+e7f7faf addition of the output of the bash script alongside the updated bash script
+a144e74 addition of the bash alphabet script alongside the screenshot of it working
+2c904ab adding output
+3f8dca2 addition of css file with update to index.html
+8b97b8a adding the css file with the image needed for the html file
+c57cc7d adding the webpage folder containing only the HTML file
+c230d3d Addition of all files
+67b6208 Added project folder with output file
+e78f2b6 addition of all files
+eeb9096 added output and project folder containing task
+1455194 Added output file alongside task1
