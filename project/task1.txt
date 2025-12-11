@@ -1,3 +1,7 @@
 “List of files in the root directory”
 
 /c/Users/yassi/Documents/Assesment_A/project
+total 8
+drwxr-xr-x 1 yassi 197609  0 Dec 10 17:39 ./
+drwxr-xr-x 1 yassi 197609  0 Dec 11 20:53 ../
+-rw-r--r-- 1 yassi 197609 88 Dec 11 20:55 task1.txt
